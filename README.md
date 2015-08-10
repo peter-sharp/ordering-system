@@ -5,6 +5,8 @@ Your app needs to have the following:
 + a shopping cart (angular model) that sores selected items and their total
 + a form for customer billing and shipping details with basic validation
 
-To test your app you can start a test server by running:
+To test your app you can start a test server by running
+
     $ python testServer.py
+
 to stop the server press enter
